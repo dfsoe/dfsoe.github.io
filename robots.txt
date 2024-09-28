@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dfsoe.github.io/BWo/sitemap.BWo.gz
